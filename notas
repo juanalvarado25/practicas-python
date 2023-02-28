@@ -1,0 +1,20 @@
+en programacion existen lenguajes dinamicamente tipados y fuertemente tipados.
+
+Un lenguaje fuertemente tipado es aquel en el que una vez habiendo definido una variable no podemos cambiar su tipo.
+durante la ejecucion del programa.
+
+En un programa dinamicamente tipado si es posible cambiar el tipo de variable
+durante la ejecucion del programa
+
+CAST sirve para cambiar de tipo de variable a alguna variable que ya haya sido defina o 
+para asegurarnos de que estamos trabajando con un tipo de variable que nosotros queremos trabajar especificamente
+
+El guion bajo se utiliza para palabras dentro de una variable 
+
+1numero error de sintaxis siempre se inicia con letras 
+
+no usar palabras reservadas para nombrar variables 
+
+las variables son sensitivas a mayusculas y minisculas
+
+Al nombrar variables se hace el uso de letras minusculas
